@@ -73,3 +73,4 @@ fig = fig.update_traces(
 
 st.write("Pie chart in Streamlit")
 st.plotly_chart(fig)
+
